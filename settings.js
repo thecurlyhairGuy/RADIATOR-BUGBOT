@@ -4,13 +4,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254746764468"
+global.ownernomer = "2347086606304"
 global.ownername = "☬RADIATOR-BUGBOT☬"
 global.ytname = "❖RADIATOR-BUGBOT❖"
 global.socialm = "GitHub: Arlo-dragony"
 global.location = "Africa, Kenya, Bomet"
 
-global.ownernumber = '254746764468,254702713600,254746764468'  //creator number
+global.ownernumber = '2347086606304,2349132095836'  //creator number
 global.ownername = '❖RADIATOR-BUGBOT❖' //owner name
 global.botname = '❖RADIATOR-BUGBOT❖' //name of the bot
 
@@ -19,8 +19,8 @@ global.packname = 'Sticker By'
 global.author = 'ARLODRAGON DRAGON\n\nContact: +254702713600'
 
 //console view/theme
-global.themeemoji = '🐉'
-global.wm = "SIR DRAGON Tech."
+global.themeemoji = '🆘'
+global.wm = "DRAGON"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
@@ -33,7 +33,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
 global.autoswview = true //auto view status/story
 
